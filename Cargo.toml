@@ -1,5 +1,5 @@
 [package]
-name = "tiled_json"
+name = "rs-tiled_json"
 version = "0.1.0"
 authors = ["jpgadoury01"]
 edition = "2018"
